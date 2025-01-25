@@ -1,4 +1,11 @@
 ### Hi there 👋
+My name is Arturo Orellana.
+- 🔭 I’m currently working as Service Manager.
+- 🌱 I’m currently learning about AI/ML and new technologies to use in projects.
+- 👯 I’m looking to collaborate on AI/ML and Automation OpenSource Projects.
+- 🤔 I’m looking for help with AI and RPA Automation Projects.
+- 💬 Ask me about C#, Python, RPA and AI.
+- 📫 How to reach me: arturo@orellana.ws
 
 <!--
 **arthasnet/arthasnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
