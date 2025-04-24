@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Arturo Orellana.
-- 🔭 I’m currently working as Service Manager.
+- 🔭 I’m currently working as Technical Manager.
 - 🌱 I’m currently learning about AI/ML and new technologies to use in projects.
 - 👯 I’m looking to collaborate on AI/ML and Automation OpenSource Projects.
 - 🤔 I’m looking for help with AI and RPA Automation Projects.
